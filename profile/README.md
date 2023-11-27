@@ -10,6 +10,7 @@
 -->
 
 ![TUM Boring](https://tum-boring.com/wp-content/themes/dist/images/logo_full_black.svg)
+
 ![TUM Boring's Tunneling Machine](https://tum-boring.com/wp-content/uploads/2021/05/boring-front-scaled.jpg)
 
 ## Get Involved 🛠️
